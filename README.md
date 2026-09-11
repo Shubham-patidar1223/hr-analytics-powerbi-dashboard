@@ -31,4 +31,5 @@ An interactive Power BI dashboard developed to analyze employee attrition and HR
 
 ## Dashboard
 
-![HR Analytics Dashboard](hr-analytics-dashboard.png)
+![HR Analytics Dashboard](IMG_20260911_161824.jpg)
+
